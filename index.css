@@ -65,3 +65,11 @@ article {
   font-size: 14px;
   font-weight: 400;
 }
+
+.erg-couch,
+.carved-chair,
+.frozen-table {
+  width: 100%;
+  height: auto;
+  border-radius: 8px;
+}
