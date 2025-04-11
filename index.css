@@ -5,6 +5,7 @@
 
 body {
   background-color: rgb(20, 20, 20);
+  text-align: center;
 }
 
 button {
@@ -23,6 +24,9 @@ h1 {
   font-style: oblique;
   text-align: center;
   font-size: 54px;
+  border-bottom: dotted;
+  display: inline-block;
+  margin: 0 auto;
 }
 
 h2 {
@@ -36,6 +40,7 @@ article {
   width: 220px;
   padding: 8px;
   margin: 16px;
+  text-align: left;
 }
 
 .sale {
